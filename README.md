@@ -14,8 +14,8 @@ This repo is currently deprecated. Homebrew Core maintains its own formula for M
 
  2. Tap MacVim formula
 
-   `$ brew tap macvim-dev/macvim`
+   `$ brew tap gconcerto/homebrew-macvim
 
 ### Install
 
-    $ brew install --HEAD macvim-dev/macvim/macvim
+    $ brew install --HEAD macvim-gconcerto
